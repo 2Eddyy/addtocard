@@ -1,0 +1,32 @@
+.main{
+    width: 220px;
+    height: 375px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.image{
+width: 170px;
+height: 130px;
+padding: 0 0 0 13px;
+}
+.container{
+    display: grid;
+    flex-direction: row;
+}
+.name{
+    text-align: center;
+}
+.model{
+    text-align: center;
+}
+.cc{
+    text-align: center;
+}
+.btn1{
+   position: relative;
+   left: 10px;    
+}
+.btn2{
+    position: relative;
+    left: 20px;
+}

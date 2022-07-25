@@ -1,0 +1,25 @@
+.Product{
+    width: 250px;
+    height: 390px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.img{
+    width: 180px;
+    height: 140px;
+    position: relative;
+    left: 27px;
+}
+.names{
+    text-align: center;
+}
+.models{
+    text-align: center;
+}
+.ccs{
+    text-align: center;
+}
+.button{
+    position: relative;
+    left: 75px;
+}

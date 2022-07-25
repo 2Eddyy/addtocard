@@ -1,0 +1,66 @@
+ 
+ [
+    {
+        "id":"1",
+        "name":"Nenja H2R",
+        "model":2022,
+        "cc":950,
+        "image":"./nenja.jpg"
+    },
+    {
+        "id":"2",
+        "name":"Royal Enfeild",
+        "model":2022,
+        "cc":950,
+        "image":"./royal.jpg"
+    },
+    {
+        "id":"3",
+        "name":"Yamaha R15",
+        "model":2022,
+        "cc":950,
+        "image":"./r15.jpg"
+    },
+    {
+        "id":"4",
+        "name":"RX-100",
+        "model":2022,
+        "cc":950,
+        "image":"./rx100.jpg"
+    },
+    {
+        "id":"5",
+        "name":"Duke",
+        "model":2022,
+        "cc":950,
+        "image":"./duke.jpg"
+    },
+    {
+        "id":"6",
+        "name":"Bullet",
+        "model":2022,
+        "cc":950,
+        "image":"./bullet.jpg"
+    },
+    {
+        "id":"7",
+        "name":"R15",
+        "model":2022,
+        "cc":1000,
+        "image":"./black-r15.jpg"
+    },
+    {
+        "id":"8",
+        "name":"R15",
+        "model":2022,
+        "cc":450,
+        "image":"./yellow-r15.jpg"
+    },
+    {
+        "id":"9",
+        "name":"R15",
+        "model":2022,
+        "cc":1300,
+        "image":"./grey-r15.jpg"
+    }
+]
